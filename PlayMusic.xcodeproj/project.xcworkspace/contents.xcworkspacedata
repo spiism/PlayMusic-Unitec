@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../bad romance- ladygaga.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:../../hello - adele.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:../../the day you went away - m2m.mp3">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
